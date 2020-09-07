@@ -1,6 +1,6 @@
 # Destini 🤔
 
-## Our Goal
+## Description
 
 A simple adventure game like Bandersnatch to practice Dart OOP principles to build a well organised project.
 
