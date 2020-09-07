@@ -5,7 +5,7 @@
 A simple adventure game like Bandersnatch to practice Dart OOP principles to build a well organised project.
 
 <p align='center'>
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/Destini.gif)
+<img src='https://github.com/londonappbrewery/Images/blob/master/Destini.gif' alt='Finished App' />
   </p>
 
 
